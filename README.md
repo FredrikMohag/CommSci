@@ -1,2 +1,2 @@
-# CommSci
-My Semester Project 1
+# CommSciMuseum
+Semester Project
